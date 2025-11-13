@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Dev from India - ReactJS | NextJS | JavaScript | TypeScript | Python | GenAI</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=subodhshukla&label=Profile%20views&color=0e75b6&style=flat" alt="subodhshukla" />
+  <img src="https://komarev.com/ghpvc/?username=subodhshukla26&label=Profile%20views&color=0e75b6&style=flat" alt="subodhshukla" />
 </p>
 
 <!-- About Me Section -->
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/subodh-shukla-8975b7380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+<a href="https://www.linkedin.com/in/subodh-shukla-8975b7380" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 <a href="https://leetcode.com/u/SubodhShukla1093/" target="blank">
@@ -106,6 +106,6 @@
 <br><br>
 
 <center>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subodhshukla&show_icons=true&locale=en&layout=compact" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subodhshukla&" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subodhshukla26&show_icons=true&locale=en&layout=compact" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subodhshukla26&" /></p>
 </center>
